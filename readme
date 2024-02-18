@@ -1,0 +1,6 @@
+
+make
+
+main 为初始化共享内存池，并将 md5file.txt 加载进去，  test为查询使用的demo
+注意 : 共享内存 默认分配为32M, 超出后需要修改默认配置
+root权限下 执行 sysctl -w kernel.shmmax=134217728 （大小根据实际情况决定，单次有效）

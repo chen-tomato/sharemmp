@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "string.h": "c",
+        "string": "c",
+        "vector": "c",
+        "memory": "c",
+        "string_view": "c",
+        "system_error": "c",
+        "mempool.h": "c",
+        "typeinfo": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "public.h": "c",
+        "time.h": "c",
+        "hash.h": "c",
+        "sendfile.h": "c",
+        "shadow.h": "c",
+        "dirent.h": "c",
+        "fcntl.h": "c",
+        "stdint.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c"
+    }
+}
